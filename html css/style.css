@@ -65,7 +65,7 @@ th:hover{
     margin: 0px;
 }
  body{
-    background-color: aqua;
+    background-color: rgb(42, 107, 107);
  }
 
 div{margin: auto;margin-top: 100px;
@@ -99,5 +99,5 @@ a{margin-left: 15px;
         margin: 30px 40px 30px 40px; 
     }
     label{
-        font-size: 20px; margin-left: 80px;
+        font-size: 20px; margin-left: 80px; padding: 1px;
     }
